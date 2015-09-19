@@ -1,0 +1,7 @@
+{
+    "require": {
+        "slim/slim": "^2.6",
+        "guzzlehttp/guzzle": "^6.1",
+        "vlucas/phpdotenv": "^2.0"
+    }
+}
